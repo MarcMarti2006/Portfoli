@@ -41,7 +41,7 @@ h2:hover {
 }
 
 /* Estils per a les seccions */
-#descripcio, #experiencia, #educacio {
+#descripcio, #experiencia, #educacio, #reflexió {
     border: 2px solid #981ac2;
     padding: 20px;
     border-radius: 10px;
@@ -53,7 +53,7 @@ h2:hover {
 }
 
 /* Quan passes el cursor per sobre d'una secció */
-#descripcio:hover, #experiencia:hover, #educacio:hover {
+#descripcio:hover, #experiencia:hover, #educacio:hover, #reflexió:hover {
     transform: scale(1.05); /* Augmenta la mida */
     background-color: #000000; /* Canvi de color de fons a verd */
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.2); /* Ombrat més fort */
